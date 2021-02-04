@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199737168749",
+    "firebase_url": "https://yendxchat.firebaseio.com",
+    "project_id": "yendxchat",
+    "storage_bucket": "yendxchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199737168749:android:cc2c82d8ec2d45dd554064",
+        "android_client_info": {
+          "package_name": "com.fare.yendx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199737168749-58242gu02uvit1431n1cs7lkdi5a2i1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViPeyhI44df02zkTnQSMfjexNp1lqjWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199737168749-58242gu02uvit1431n1cs7lkdi5a2i1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
